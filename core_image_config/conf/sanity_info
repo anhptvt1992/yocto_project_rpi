@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/anhpt26/rpi-tools/yocto_rpi/build/tmp
+SSTATE_DIR /home/anhpt26/rpi-tools/yocto_rpi/build/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
